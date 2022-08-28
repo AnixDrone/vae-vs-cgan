@@ -81,3 +81,26 @@ The classifier results when tested on CVAE generated data:
     weighted avg       0.35      0.30      0.31      1000
 
 ![alt cvae_confusion_matrix](https://github.com/AnixDrone/vae-vs-cgan/blob/main/assets/cvae_conf_matrix.png)
+
+
+# Samples
+
+## CGAN
+
+### Generated images
+
+![alt cgan_generated_images](https://github.com/AnixDrone/vae-vs-cgan/blob/main/assets/cgan_fake_images.png)
+
+### Real images
+
+![alt cgan_real_images](https://github.com/AnixDrone/vae-vs-cgan/blob/main/assets/cgan_real_images.png)
+
+## CVAE
+
+### Generated images
+
+![alt cvae_generated_images](https://github.com/AnixDrone/vae-vs-cgan/blob/main/assets/cvae_fake_images.png)
+
+### Real images
+
+![alt cvae_real_images](https://github.com/AnixDrone/vae-vs-cgan/blob/main/assets/cvae_real_images.png)
